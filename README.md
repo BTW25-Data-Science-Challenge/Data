@@ -2,8 +2,9 @@
 All data goes here, split into respective domains, as well as data priorities and inter-group logs.
 
 # Data format
+- data generation script & maybe example data
 - output format
-        - panda dataframes
+        - panda dataframes (csv)
 - frequency
         - HOURLY
 - missing values
