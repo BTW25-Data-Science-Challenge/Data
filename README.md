@@ -26,7 +26,7 @@ All data goes here, split into respective domains.
 - inflation (Clara)
 - news embeddings (ungeplante outages)
 
-# Sources etc
+# Sources etc.
 https://github.com/BTW25-Data-Science-Challenge/AutoGluon/blob/main/Data_brainstorm.ipynb
 
 # Ambassadery 
