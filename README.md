@@ -3,6 +3,7 @@ All data goes here, split into respective domains, as well as data priorities an
 
 # Data format
 - data generation script & maybe example data
+- story of data (origin, aquisition, etc...)
 - output format
         - panda dataframes (csv)
 - frequency
