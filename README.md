@@ -1,5 +1,5 @@
-# Data
-All data goes here, split into respective domains.
+# This Repo
+All data goes here, split into respective domains, as well as data priorities and inter-group logs.
 
 # Data format
 - output format
